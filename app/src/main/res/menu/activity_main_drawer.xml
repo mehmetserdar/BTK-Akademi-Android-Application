@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/group1"
+        android:checkableBehavior="single">
+		<item
+			android:id="@+id/section1"
+			android:checked="true"
+			android:title="@string/section1_title" />
+		<item
+			android:id="@+id/section2"
+			android:title="@string/section2_title" />
+
+
+    </group>
+
+
+
+	<group android:id="@+id/group2"
+		android:checkableBehavior="single">
+
+		<item
+			android:id="@+id/section3"
+			android:title="@string/section3_title" />
+
+		<item
+			android:id="@+id/section4"
+			android:title="@string/section4_title" />
+
+		<item
+			android:id="@+id/section5"
+			android:title="@string/section5_title" />
+
+
+		<item
+			android:id="@+id/section6"
+			android:title="@string/section6_title" />
+
+		<item
+			android:id="@+id/section7"
+			android:title="@string/section7_title" />
+
+		<item
+			android:id="@+id/section8"
+			android:title="@string/section8_title" />
+
+	</group>
+	<group android:id="@+id/group3"
+		android:checkableBehavior="single">
+
+		<item
+			android:id="@+id/section9"
+			android:title="@string/section9_title" />
+
+		<item
+			android:id="@+id/section10"
+			android:title="@string/section10_title" />
+
+
+	</group>
+
+
+
+
+</menu>

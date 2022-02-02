@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">BTK Akademi</string>
+    <string name="share_text">Bu BTK Akademi eğitimini seninle paylaşmak isterim:</string>
+    <string name="title_something_went_wrong">Bir şeyler ters gitti!</string>
+	<string name="title_no_internet">Bağlantı yok!</string>
+	<string name="check_your_connection">Lütfen bağlantınızı kontrol ediniz.</string>
+	<string name="section1_title">Anasayfa</string>
+    <string name="section2_title">Eğitimler</string>
+    <string name="section3_title">Profilim</string>
+    <string name="section4_title">İstatistiklerim</string>
+    <string name="section5_title">Eğitimlerim</string>
+    <string name="section6_title">Sertifikalarım</string>
+    <string name="section7_title">Notlarım</string>
+    <string name="section8_title">Favorilerim</string>
+    <string name="section9_title">Haberler</string>
+    <string name="section10_title">SSS</string>
+    <string name="retry">Tekrar Dene</string>
+    <string name="close">Kapat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_send">Gönder</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="error_invalid_request">Invalid request error. </string>
+    <string name="share">Paylaş</string>
+    <string name="write_storage_permission_rationale">Write storage permission is required for downloading.</string>
+    <string name="fine_location_permission_rationale">Do you allow access to your location?</string>
+    <string name="record_audio_permission_rationale">Do you allow access to your microphone?</string>
+    <string name="camera_permission_rationale">Do you allow access to your camera?</string>
+    <string name="url_could_not_handled">URL could not handled.</string>
+    <string name="remove_ads">Remove Ads</string>
+    <string name="ok">Tamam</string>
+    <string name="cancel">İptal</string>
+    <string name="none">None</string>
+    <string name="title_error">ERROR</string>
+    <string name="title_warning">WARNING</string>
+    <string name="title_info">INFO</string>
+    <string name="ssl_not_verified">The SSL Certificate could not be verified. Do you want to continue?</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+    <string name="your_message_sent">Your message has been successfully sent.</string>
+
+
+
+</resources>

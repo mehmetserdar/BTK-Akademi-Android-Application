@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.delight-im:Android-AdvancedWebView:v3.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cd71fa7d7876ff3aaac7e12b5e1259ae/jetified-Android-AdvancedWebView-v3.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/50c9cab9395fcd3d45a77f2814a3d304/transformed/jetified-Android-AdvancedWebView-v3.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/50c9cab9395fcd3d45a77f2814a3d304/transformed/jetified-Android-AdvancedWebView-v3.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/50c9cab9395fcd3d45a77f2814a3d304/transformed/jetified-Android-AdvancedWebView-v3.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.delight-im/Android-AdvancedWebView/v3.0.0/e517a49b2d33a107b140d2742cc709b8097725dd/Android-AdvancedWebView-v3.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.delight-im/Android-AdvancedWebView/v3.0.0/8a0e1c484c15fc170c6e256219f2b7d551616c77/Android-AdvancedWebView-v3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
